@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2021 Sayan Bandyopadhyay
+#
+# SPDX-License-Identifier: Apache-2.0
+
 if(STANDALONE)
   add_subdirectory(target-utils)
   add_subdirectory(target-syslibs)

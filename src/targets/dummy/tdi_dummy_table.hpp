@@ -1,10 +1,7 @@
-/*******************************************************************************
- * Copyright (c) 2017-2018 Barefoot Networks, Inc.
- * SPDX-License-Identifier: Apache-2.0
- *
- * $Id: $
- *
- ******************************************************************************/
+// Copyright (C) 2017-2018 Barefoot Networks, Inc.
+// SPDX-FileCopyrightText: 2017-2018 Barefoot Networks, Inc.
+//
+// SPDX-License-Identifier: Apache-2.0
 #ifndef _TDI_DUMMY_TABLE_HPP
 #define _TDI_DUMMY_TABLE_HPP
 

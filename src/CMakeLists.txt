@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2021 Sayan Bandyopadhyay
+#
+# SPDX-License-Identifier: Apache-2.0
 
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)

@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2021 Sayan Bandyopadhyay
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # List of contributors
 
 Sayan Bandyopadhyay <sayan.bandyopadhyay@intel.com>

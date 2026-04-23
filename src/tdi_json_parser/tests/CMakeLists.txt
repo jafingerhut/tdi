@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2022 Sayan Bandyopadhyay
+#
+# SPDX-License-Identifier: Apache-2.0
+
 include(CTest)
 ENABLE_TESTING()
 
